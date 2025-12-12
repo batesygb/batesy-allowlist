@@ -11,5 +11,11 @@
   "expires": "2026-12-31",
   "device": "A8A159EE4E6F"
 }
+    {
+  "hash": "66f910277227d5ca98fa97a8e517dd8728dbe69507845de8311d07f7cad8f847",
+  "label": "BATESY-TATE-002",
+  "expires": "null",
+  "device": ""
+}
   ]
 }
