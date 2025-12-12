@@ -1,3 +1,9 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "hash": "b2e58f333a74e9e479da93ee6c087281a5b4ddcb38bdad5b7c77328027925c15",
+      "label": "Test User",
+      "expires": "2026-12-31"
+    }
+  ]
 }
