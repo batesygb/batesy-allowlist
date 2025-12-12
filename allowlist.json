@@ -2,8 +2,14 @@
   "keys": [
     {
       "hash": "b2e58f333a74e9e479da93ee6c087281a5b4ddcb38bdad5b7c77328027925c15",
-      "label": "Test User",
+      "label": "BATESY-TEST-USER-001",
       "expires": "2026-12-31"
-    }
+    },
+    {
+  "hash": "YOUR_HASH",
+  "label": "BATESY-TEST-001",
+  "expires": "2026-12-31",
+  "device": "A8A159EE4E6F"
+},
   ]
 }
